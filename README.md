@@ -13,7 +13,10 @@ The purpose of this analysis was to execute a project given to us by V. Isualize
 1. The total rides for Urban city types are more than 10 times the amount of total rides in Rural cities, and more than 2 times the amount in Suburban cities.
    - Urban (1,625 Total Rides); Rural (125 Total Rides); Suburban (625 Total Rides)
 2. There are many more drivers in Urban areas compared to Rural and Suburban
-3. 
+   - Urban (2,405 Total Drivers); Suburban (490 Total Drivers); Rural (78 Total Drivers)
+3. The Fare per Driver average for Urban city types is much less than that of Suburban and Rural cities
+   - Urban ($16.57); Suburban ($39.50); Rural ($55.46)
+5. 
 
 ## Summary:
 ## There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
