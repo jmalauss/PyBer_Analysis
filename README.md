@@ -11,7 +11,7 @@ The purpose of this analysis was to execute a project given to us by V. Isualize
 # Main Differences between City Types:
 
 1. The total rides for Urban city types are more than 10 times the amount of total rides in Rural cities, and more than 2 times the amount in Suburban cities.
-  - Urban (1,625 Total Rides); Rural (125 Total Rides); Suburban (625 Total Rides)
+   - Urban (1,625 Total Rides); Rural (125 Total Rides); Suburban (625 Total Rides)
 2. There are many more drivers in Urban areas compared to Rural and Suburban
 3. 
 
