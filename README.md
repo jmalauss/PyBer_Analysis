@@ -1,12 +1,12 @@
 # PyBer_Analysis
 # Overview of the analysis:
-## The purpose of the new analysis is well defined.
+### The purpose of the new analysis is well defined.
 
 The purpose of this analysis was to execute a project given to us by V. Isualize and Omar. We are working for PyBer as Data Analysts and our goal for this project is to deep dive the ride-sharing data and use it to create a data frame and multiple-line graph to display total weekly fares in the different types of cities. 
 
-## Results:
-## There is a description of the differences in ride-sharing data among the different city types. 
-## Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+# Results:
+### There is a description of the differences in ride-sharing data among the different city types. 
+### Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 ## Main Differences between City Types:
 
@@ -23,12 +23,12 @@ The purpose of this analysis was to execute a project given to us by V. Isualize
 
 ![PyBer Summary Data](https://github.com/jmalauss/PyBer_Analysis/blob/main/pyber_summary_df.png)
 
-## Summary:
-## There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+# Summary:
+### There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 
 ![Fare Summary](https://github.com/jmalauss/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-Our team's reccommendations for business actions based on the analysis above:
+## Our team's reccommendations for business actions based on the analysis above:
 
 1. Target Rural and Suburban cities with a focused recruiting campaign to increase total drivers (while also increasing total rides).
 2. Implement driver rewards programs to increase the total rides per driver in Rural and Suburban cities.
